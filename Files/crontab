@@ -1,0 +1,1 @@
+# */120 * * * * cd /usr/bin/ && /usr/bin/python /usr/bin/parse.py >> /var/log/parse-cron.log 2>&1
